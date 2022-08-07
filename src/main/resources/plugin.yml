@@ -1,0 +1,6 @@
+name: EldarothAPI
+version: '${project.version}'
+main: io.github.funkyfight.eldarothapi.EldarothAPI
+api-version: 1.18
+authors: [ FunkyFight ]
+description: Communication with webserver
